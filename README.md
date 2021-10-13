@@ -1,7 +1,7 @@
 # Eurorack_KiCAD_templates
- Simple templates for starting a modular project
+ Simple templates for starting a modular project. Mix and match parts into a folder for your new project. Each board is a seperate KiCAD project including the front panel.
 
-![example of 12HP Connector panel](assets/12hp_connector_board.png)
+
  ## Connector panels
   For horizontal PCB modules (when the PCB surface is parallel with the front panel) this board holds all the connectors, but could also contain the main circuit if it fits.
 
@@ -11,13 +11,18 @@
 
   There is a 100mm height version to take advantage of the cheaper PCB pooling 100x100mm limit that many fab houses use.
 
-![example of 12HP front panel](assets/12hp_front_panel.png)
+![example of 12HP Connector panel](assets/12hp_connector_board.png)
+
  ## Front panels
  They are is layed out according to [Doepfer standards](https://www.doepfer.de/a100_man/a100m_e.htm) 128.5mm high and "actual module width" in the table. They have elogated holes for easy adjustment left and right on the rack. 
 
-![example of 12HP main board](assets/12hp_main.png)
+ ![example of 12HP front panel](assets/12hp_front_panel.png)
+
+
  ## Main boards
  For horizontal PCB modules this board is at the back with a 10 pin Eurorack connector already drawn out in the schematic.
 
  For vertical boards
+
+ ![example of 12HP main board](assets/12hp_main.png)
 
