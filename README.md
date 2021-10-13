@@ -1,7 +1,7 @@
 # Eurorack_KiCAD_templates
  Simple templates for starting a modular project
 
-!(example of 12HP Connector panel)[assets/12hp_connector_board.png]
+![example of 12HP Connector panel](assets/12hp_connector_board.png)
  ## Connector panels
   For horizontal PCB modules (when the PCB surface is parallel with the front panel) this board holds all the connectors, but could also contain the main circuit if it fits.
 
