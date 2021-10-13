@@ -11,9 +11,11 @@
 
   There is a 100mm height version to take advantage of the cheaper PCB pooling 100x100mm limit that many fab houses use.
 
+![example of 12HP front panel](assets/12hp_front_panel.png)
  ## Front panels
  They are is layed out according to [Doepfer standards](https://www.doepfer.de/a100_man/a100m_e.htm) 128.5mm high and "actual module width" in the table. They have elogated holes for easy adjustment left and right on the rack. 
 
+![example of 12HP main board](assets/12hp_main.png)
  ## Main boards
  For horizontal PCB modules this board is at the back with a 10 pin Eurorack connector already drawn out in the schematic.
 
